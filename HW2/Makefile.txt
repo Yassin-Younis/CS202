@@ -1,0 +1,17 @@
+hw2: main.o analysis.o BST.o BSTNODE.o
+	g++ -o hw2 main.o analysis.o BST.o BSTNODE.o
+
+main.o: main.cpp BST.h analysis.h
+	g++ -c main.cpp
+
+analysis.o: analysis.cpp analysis.h
+	g++ -c analysis.cpp
+
+BST.o: BST.cpp BST.h BSTNODE.h
+	g++ -c BST.cpp
+
+BSTNODE.o: BSTNODE.cpp BSTNODE.h
+	g++ -c BSTNODE.cpp
+
+clean:
+	rm -f *.o hw2
