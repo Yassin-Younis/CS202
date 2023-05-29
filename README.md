@@ -7,7 +7,7 @@ This repository contains my implementations for the Bilkent CS202 course homewor
 ### Homework Grades
 
 - HW1: 87/100
-- HW2: 63/100
+- HW2: 72/100
 - HW3: 100/100
 - HW4: ?/100
 
