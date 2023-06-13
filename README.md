@@ -11,14 +11,13 @@ This repository contains my implementations for the Bilkent CS202 course homewor
 - HW3: 100/100
 - HW4: 100/100
 
-Please note that the grade for HW4 is currently unavailable. I will update it as soon as it is announced.
 
 ### Repository Structure
 
 - `hw1/`: Contains the solution for HW1.
 - `hw2/`: Contains the solution for HW2.
 - `hw3/`: Contains the solution for HW3.
-- `hw4/`: Placeholder for HW4 (to be updated later).
+- `hw4/`: Contains the solution for HW4.
 
 Feel free to explore each homework directory for the corresponding implementation and related files.
 
